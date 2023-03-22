@@ -3,7 +3,7 @@ package part1.ch1;
 import java.util.Scanner;
 
 //[1157] 단어 공부
-public class Main {
+public class Main3 {
 	public static int[] getAlphabetCount(String str) {
 		int[] count = new int[26];
 		for (int i = 0; i < str.length(); i++) {
